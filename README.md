@@ -30,11 +30,11 @@ Run the password generator locally and use the intuitive GUI to generate secure 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/gui-password-generator.git
+   git clone https://github.com/Sudeep-Bhandari/Password-Generator.git
 
 2. Navigate to the project folder:
    ```bash
-    cd gui-password-generator
+    cd Password-Generator
 
 3. Install dependencies: Ensure you have Python installed and run the following command:
    ```bash
@@ -42,7 +42,7 @@ Run the password generator locally and use the intuitive GUI to generate secure 
 
 4. Run the application:
    ```bash
-   python password_generator.py
+   python Password-Generator.py
    
 5. Use the GUI:
    - Set your desired password length.
