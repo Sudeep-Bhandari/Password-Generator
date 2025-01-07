@@ -9,8 +9,6 @@ A secure and user-friendly password generator built with Python, featuring a gra
   - Set password length.
   - Include or exclude uppercase letters, lowercase letters, numbers, and special characters.
 - **Random Password Generation**: Ensures strong and unpredictable passwords using Python's `random` and `string` modules.
-- **Visual Appeal**: Includes icons and images using the `PIL` (Pillow) library.
-- **Error Handling**: Displays user-friendly messages using `tkinter.messagebox`.
 
 ## Demo
 
